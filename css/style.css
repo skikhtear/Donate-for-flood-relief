@@ -5,7 +5,7 @@
 }
 
 .container-bg {
-  background-image: url(/image/top.jpg);
+  background-image: url(../image/top-banner.png);
    background-repeat: no-repeat;
    background-size: cover;
    height: 680px;
@@ -16,12 +16,12 @@
     font-size: 80px;
     text-align: center;
     padding-top: 200px;
-    color: #a224f6;
+    color:#ffffff;
 }
 .container-bg p{
     font-size: 24px;
     text-align: center;
-    color: #0d1319;
+    color: #ffffff;
     padding-top: 20px;
     padding-bottom: 150px;
 }
