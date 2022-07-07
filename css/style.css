@@ -33,12 +33,8 @@
     color: white;
     border-radius: 3px;
     font-weight: 800;
-    margin: 0;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
+    margin: 42%;
+   
 }
 .common-div{
     margin-left: 150px;
