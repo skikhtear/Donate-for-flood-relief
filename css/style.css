@@ -8,7 +8,7 @@
   background-image: url(../image/top-banner.png);
    background-repeat: no-repeat;
    background-size: cover;
-   height: 680px;
+   height: 900px;
    width: 100%;
 }
 
@@ -109,11 +109,12 @@
     font-size: 24px;
     text-decoration: none;
     background: linear-gradient(#f95d24, #de924f);
-    padding: 20px 80px;
+    padding: 20px 60px;
     color: white;
     border-radius: 3px;
     font-weight: 800;
-    margin: 50%;
+    margin: 1020px;
+    
 }
 .d-plan h1{
     font-size: 50px;
